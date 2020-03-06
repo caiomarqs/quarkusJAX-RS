@@ -18,3 +18,4 @@ Windows
 ```
 mvnw compile quarkus:dev
 ```
+[README.md em Português](https://github.com/caiomarqs/quarkusJAX-RS/blob/master/README-pt.md)
